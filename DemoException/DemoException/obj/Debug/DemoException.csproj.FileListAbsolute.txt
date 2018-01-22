@@ -1,0 +1,9 @@
+D:\c#_project\DemoException\DemoException\bin\Debug\DemoException.exe.config
+D:\c#_project\DemoException\DemoException\bin\Debug\DemoException.exe
+D:\c#_project\DemoException\DemoException\bin\Debug\DemoException.pdb
+D:\c#_project\DemoException\DemoException\obj\Debug\DemoException.csprojResolveAssemblyReference.cache
+D:\c#_project\DemoException\DemoException\obj\Debug\DemoException.csproj.CoreCompileInputs.cache
+D:\c#_project\DemoException\DemoException\obj\Debug\DemoException.exe
+D:\c#_project\DemoException\DemoException\obj\Debug\DemoException.pdb
+D:\c#_project\DemoException\DemoException\obj\Debug\DemoException.Properties.Resources.resources
+D:\c#_project\DemoException\DemoException\obj\Debug\DemoException.csproj.GenerateResource.Cache

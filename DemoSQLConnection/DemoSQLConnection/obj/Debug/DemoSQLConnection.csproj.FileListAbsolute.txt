@@ -1,0 +1,10 @@
+D:\c#_project\DemoSQLConnection\DemoSQLConnection\bin\Debug\DemoSQLConnection.exe.config
+D:\c#_project\DemoSQLConnection\DemoSQLConnection\bin\Debug\DemoSQLConnection.exe
+D:\c#_project\DemoSQLConnection\DemoSQLConnection\bin\Debug\DemoSQLConnection.pdb
+D:\c#_project\DemoSQLConnection\DemoSQLConnection\obj\Debug\DemoSQLConnection.csprojResolveAssemblyReference.cache
+D:\c#_project\DemoSQLConnection\DemoSQLConnection\obj\Debug\DemoSQLConnection.Form1.resources
+D:\c#_project\DemoSQLConnection\DemoSQLConnection\obj\Debug\DemoSQLConnection.Properties.Resources.resources
+D:\c#_project\DemoSQLConnection\DemoSQLConnection\obj\Debug\DemoSQLConnection.csproj.GenerateResource.Cache
+D:\c#_project\DemoSQLConnection\DemoSQLConnection\obj\Debug\DemoSQLConnection.csproj.CoreCompileInputs.cache
+D:\c#_project\DemoSQLConnection\DemoSQLConnection\obj\Debug\DemoSQLConnection.exe
+D:\c#_project\DemoSQLConnection\DemoSQLConnection\obj\Debug\DemoSQLConnection.pdb

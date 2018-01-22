@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoException", "DemoException\DemoException.csproj", "{3AF4D291-D5F6-410D-A7C1-7D258EAFB1F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AF4D291-D5F6-410D-A7C1-7D258EAFB1F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF4D291-D5F6-410D-A7C1-7D258EAFB1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF4D291-D5F6-410D-A7C1-7D258EAFB1F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF4D291-D5F6-410D-A7C1-7D258EAFB1F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {051BF2AD-1B76-432B-B9BA-902A65322FEE}
+	EndGlobalSection
+EndGlobal

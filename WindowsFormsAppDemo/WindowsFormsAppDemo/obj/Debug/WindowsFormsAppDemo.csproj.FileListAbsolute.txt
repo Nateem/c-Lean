@@ -1,0 +1,10 @@
+D:\c#_project\WindowsFormsAppDemo\WindowsFormsAppDemo\bin\Debug\WindowsFormsAppDemo.exe.config
+D:\c#_project\WindowsFormsAppDemo\WindowsFormsAppDemo\bin\Debug\WindowsFormsAppDemo.exe
+D:\c#_project\WindowsFormsAppDemo\WindowsFormsAppDemo\bin\Debug\WindowsFormsAppDemo.pdb
+D:\c#_project\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.csprojResolveAssemblyReference.cache
+D:\c#_project\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.Form1.resources
+D:\c#_project\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.Properties.Resources.resources
+D:\c#_project\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.csproj.GenerateResource.Cache
+D:\c#_project\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.csproj.CoreCompileInputs.cache
+D:\c#_project\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.exe
+D:\c#_project\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.pdb
