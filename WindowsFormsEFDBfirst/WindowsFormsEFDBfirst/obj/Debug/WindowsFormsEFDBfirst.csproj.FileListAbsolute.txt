@@ -12,3 +12,17 @@ D:\c#_project\WindowsFormsEFDBfirst\WindowsFormsEFDBfirst\obj\Debug\WindowsForms
 D:\c#_project\WindowsFormsEFDBfirst\WindowsFormsEFDBfirst\obj\Debug\WindowsFormsEFDBfirst.csproj.CoreCompileInputs.cache
 D:\c#_project\WindowsFormsEFDBfirst\WindowsFormsEFDBfirst\obj\Debug\WindowsFormsEFDBfirst.exe
 D:\c#_project\WindowsFormsEFDBfirst\WindowsFormsEFDBfirst\obj\Debug\WindowsFormsEFDBfirst.pdb
+E:\c-Lean\WindowsFormsEFDBfirst\WindowsFormsEFDBfirst\bin\Debug\WindowsFormsEFDBfirst.exe.config
+E:\c-Lean\WindowsFormsEFDBfirst\WindowsFormsEFDBfirst\bin\Debug\WindowsFormsEFDBfirst.exe
+E:\c-Lean\WindowsFormsEFDBfirst\WindowsFormsEFDBfirst\bin\Debug\WindowsFormsEFDBfirst.pdb
+E:\c-Lean\WindowsFormsEFDBfirst\WindowsFormsEFDBfirst\bin\Debug\EntityFramework.dll
+E:\c-Lean\WindowsFormsEFDBfirst\WindowsFormsEFDBfirst\bin\Debug\EntityFramework.SqlServer.dll
+E:\c-Lean\WindowsFormsEFDBfirst\WindowsFormsEFDBfirst\bin\Debug\EntityFramework.xml
+E:\c-Lean\WindowsFormsEFDBfirst\WindowsFormsEFDBfirst\bin\Debug\EntityFramework.SqlServer.xml
+E:\c-Lean\WindowsFormsEFDBfirst\WindowsFormsEFDBfirst\obj\Debug\WindowsFormsEFDBfirst.csprojResolveAssemblyReference.cache
+E:\c-Lean\WindowsFormsEFDBfirst\WindowsFormsEFDBfirst\obj\Debug\WindowsFormsEFDBfirst.Form1.resources
+E:\c-Lean\WindowsFormsEFDBfirst\WindowsFormsEFDBfirst\obj\Debug\WindowsFormsEFDBfirst.Properties.Resources.resources
+E:\c-Lean\WindowsFormsEFDBfirst\WindowsFormsEFDBfirst\obj\Debug\WindowsFormsEFDBfirst.csproj.GenerateResource.Cache
+E:\c-Lean\WindowsFormsEFDBfirst\WindowsFormsEFDBfirst\obj\Debug\WindowsFormsEFDBfirst.csproj.CoreCompileInputs.cache
+E:\c-Lean\WindowsFormsEFDBfirst\WindowsFormsEFDBfirst\obj\Debug\WindowsFormsEFDBfirst.exe
+E:\c-Lean\WindowsFormsEFDBfirst\WindowsFormsEFDBfirst\obj\Debug\WindowsFormsEFDBfirst.pdb
