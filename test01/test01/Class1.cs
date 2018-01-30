@@ -6,15 +6,13 @@ namespace test01
 {
     class Class1
     {
-        int  loop;
-        int m;
-        public Class1(string max)
+        public Class1(int max)
         {
             //Console.WriteLine(max);
-            int.TryParse(max , out m);
+            
             //Console.WriteLine(m);
-            this.loop = m;
-            Init(m);
+        
+            Init(max);
         }
         public void Init(int max) {
             int i = 0;

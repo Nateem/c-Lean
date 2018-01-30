@@ -4,11 +4,22 @@ namespace test01
 {
     class Program
     {
+        
         static void Main(string[] args)
         {
-            Console.Write("Input Number : ");
-            string a = Console.ReadLine();
-            Class1 c1 = new Class1(a);
+            int m;
+            bool isNumber;
+            
+            do
+            {
+                Console.Write("Input Type Number Only: ");
+                string a = Console.ReadLine();
+                isNumber = int.TryParse(a, out m);
+
+            }
+            while (!isNumber);
+
+            Class1 c1 = new Class1(m);
             Console.ReadKey();
         }
     }
